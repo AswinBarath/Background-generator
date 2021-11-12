@@ -51,5 +51,5 @@ Background generator helps you change colors dynamically and copy the CSS snippe
 
 ---
 
-[**🔼 Back to Top**](#Cool-cursor)
+[**🔼 Back to Top**](#Background-generator)
 
